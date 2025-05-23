@@ -26,31 +26,31 @@ LabEx 是一个专注于编程和技术的交互式动手学习平台。它结�
 - 不断增长的学习资源，包含 30 个技能树和超过 6,000 个实验。
 - 基于 ChatGPT 构建的 AI 学习助手 Labby，提供对话式学习体验。
 
-了解更多关于 [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
+了解更多 [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
 
 ## 练习
 
 |   序号 | 名称                                  | 难度   | 练习                                                                                                                                |
 |--------|---------------------------------------|--------|-------------------------------------------------------------------------------------------------------------------------------------|
-|     01 | 📖 学习 Nmap 安装和基本用法           | ★★☆    | <a target='_blank' href='https://labex.io/zh/tutorials/nmap-learn-nmap-installation-and-basic-usage-415924'>开始实验</a>            |
-|     02 | 🎯 本地验证服务版本                   | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/nmap-verify-service-version-locally-548693'>开始挑战</a>                     |
-|     03 | 📖 学习 Nmap 基础命令语法             | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/nmap-learn-nmap-basic-command-syntax-415919'>开始实验</a>                    |
-|     04 | 🎯 查找 Luna 服务器上的开放端口       | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/nmap-find-open-port-on-luna-server-548697'>开始挑战</a>                      |
-|     05 | 📖 学习 Nmap 扫描和输出分析           | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/nmap-learn-nmap-scanning-and-output-analysis-415926'>开始实验</a>            |
-|     06 | 🎯 将 Nmap 输出保存为 XML             | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/nmap-save-nmap-output-to-xml-548705'>开始挑战</a>                            |
-|     07 | 📖 学习 Nmap 中的目标指定技术         | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/nmap-learn-target-specification-techniques-in-nmap-415935'>开始实验</a>      |
-|     08 | 🎯 从文件扫描目标                     | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/nmap-scan-target-from-file-548715'>开始挑战</a>                              |
-|     09 | 📖 探索 Nmap 网络扫描的详细程度级别   | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/nmap-explore-nmap-verbosity-levels-for-network-scanning-415939'>开始实验</a> |
-|     10 | 🎯 揭秘隐藏端口                       | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/uncover-the-secret-port-548724'>开始挑战</a>                                 |
-|     11 | 📖 使用 Nmap SYN 扫描进行网络安全检测 | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/nmap-conduct-nmap-syn-scans-for-network-security-415934'>开始实验</a>        |
-|     12 | 📖 使用 Nmap 执行 UDP 端口扫描        | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/nmap-perform-udp-port-scanning-with-nmap-415938'>开始实验</a>                |
-|     13 | 🎯 查找开放的 UDP 端口                | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/nmap-find-open-udp-port-548746'>开始挑战</a>                                 |
-|     14 | 📖 学习 Nmap 操作系统和版本检测技术   | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/nmap-learn-nmap-os-and-version-detection-techniques-415925'>开始实验</a>     |
-|     15 | 🎯 识别 Linux 服务器版本              | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/identify-linux-server-version-548747'>开始挑战</a>                           |
+|     01 | 📖 学习 Nmap 安装和基本用法           | 中级   | <a target='_blank' href='https://labex.io/zh/tutorials/nmap-learn-nmap-installation-and-basic-usage-415924'>开始实验</a>            |
+|     02 | 🎯 本地验证服务版本                   | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/nmap-verify-service-version-locally-548693'>开始挑战</a>                     |
+|     03 | 📖 学习 Nmap 基础命令语法             | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/nmap-learn-nmap-basic-command-syntax-415919'>开始实验</a>                    |
+|     04 | 🎯 查找 Luna 服务器上的开放端口       | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/nmap-find-open-port-on-luna-server-548697'>开始挑战</a>                      |
+|     05 | 📖 学习 Nmap 扫描和输出分析           | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/nmap-learn-nmap-scanning-and-output-analysis-415926'>开始实验</a>            |
+|     06 | 🎯 将 Nmap 输出保存为 XML             | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/nmap-save-nmap-output-to-xml-548705'>开始挑战</a>                            |
+|     07 | 📖 学习 Nmap 中的目标指定技术         | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/nmap-learn-target-specification-techniques-in-nmap-415935'>开始实验</a>      |
+|     08 | 🎯 从文件扫描目标                     | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/nmap-scan-target-from-file-548715'>开始挑战</a>                              |
+|     09 | 📖 探索 Nmap 网络扫描的详细程度级别   | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/nmap-explore-nmap-verbosity-levels-for-network-scanning-415939'>开始实验</a> |
+|     10 | 🎯 揭秘隐藏端口                       | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/uncover-the-secret-port-548724'>开始挑战</a>                                 |
+|     11 | 📖 使用 Nmap SYN 扫描进行网络安全检测 | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/nmap-conduct-nmap-syn-scans-for-network-security-415934'>开始实验</a>        |
+|     12 | 📖 使用 Nmap 执行 UDP 端口扫描        | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/nmap-perform-udp-port-scanning-with-nmap-415938'>开始实验</a>                |
+|     13 | 🎯 查找开放的 UDP 端口                | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/nmap-find-open-udp-port-548746'>开始挑战</a>                                 |
+|     14 | 📖 学习 Nmap 操作系统和版本检测技术   | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/nmap-learn-nmap-os-and-version-detection-techniques-415925'>开始实验</a>     |
+|     15 | 🎯 识别 Linux 服务器版本              | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/identify-linux-server-version-548747'>开始挑战</a>                           |
 
 ## 更多
 
-- 🔗 [Cybersecurity Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Cybersecurity Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Cybersecurity Free Tutorials](https://github.com/labex-labs/cybersecurity-free-tutorials)
+- 🔗 [Cybersecurity 编程课程](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Cybersecurity 编程项目](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Cybersecurity 免费教程](https://github.com/labex-labs/cybersecurity-free-tutorials)
 
