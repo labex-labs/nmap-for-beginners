@@ -16,27 +16,27 @@
 
 ## 练习
 
-|   序号 | 名称                                   | 难度   | 练习                                                                                                                                |
-|--------|----------------------------------------|--------|-------------------------------------------------------------------------------------------------------------------------------------|
-|     01 | 📖 🆓 学习 Nmap 安装和基本用法         | 中级   | <a target='_blank' href='https://labex.io/zh/tutorials/nmap-learn-nmap-installation-and-basic-usage-415924'>开始实验</a>            |
-|     02 | 🎯 🆓 本地验证服务版本                 | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/nmap-verify-service-version-locally-548693'>开始挑战</a>                     |
-|     03 | 📖 🆓 学习 Nmap 基础命令语法           | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/nmap-learn-nmap-basic-command-syntax-415919'>开始实验</a>                    |
-|     04 | 🎯 🆓 查找 Luna 服务器上的开放端口     | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/nmap-find-open-port-on-luna-server-548697'>开始挑战</a>                      |
-|     05 | 📖 🆓 学习 Nmap 扫描和输出分析         | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/nmap-learn-nmap-scanning-and-output-analysis-415926'>开始实验</a>            |
-|     06 | 🎯 🆓 将 Nmap 输出保存为 XML           | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/nmap-save-nmap-output-to-xml-548705'>开始挑战</a>                            |
-|     07 | 📖 🆓 学习 Nmap 中的目标指定技术       | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/nmap-learn-target-specification-techniques-in-nmap-415935'>开始实验</a>      |
-|     08 | 🎯  从文件扫描目标                     | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/nmap-scan-target-from-file-548715'>开始挑战</a>                              |
-|     09 | 📖  探索 Nmap 网络扫描的详细程度级别   | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/nmap-explore-nmap-verbosity-levels-for-network-scanning-415939'>开始实验</a> |
-|     10 | 🎯  揭秘隐藏端口                       | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/nmap-uncover-the-secret-port-548724'>开始挑战</a>                            |
-|     11 | 📖  使用 Nmap SYN 扫描进行网络安全检测 | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/nmap-conduct-nmap-syn-scans-for-network-security-415934'>开始实验</a>        |
-|     12 | 📖  使用 Nmap 执行 UDP 端口扫描        | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/nmap-perform-udp-port-scanning-with-nmap-415938'>开始实验</a>                |
-|     13 | 🎯  查找开放的 UDP 端口                | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/nmap-find-open-udp-port-548746'>开始挑战</a>                                 |
-|     14 | 📖  学习 Nmap 操作系统和版本检测技术   | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/nmap-learn-nmap-os-and-version-detection-techniques-415925'>开始实验</a>     |
-|     15 | 🎯  识别 Linux 服务器版本              | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/nmap-identify-linux-server-version-548747'>开始挑战</a>                      |
+|   序号 | 名称                                   | 难度   | 练习                                                                                                                                                     |
+|--------|----------------------------------------|--------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
+|     01 | 🧩 🆓 学习 Nmap 安装和基本用法         | 中级   | <a target='_blank' href='https://labex.io/zh/labs/nmap-learn-nmap-installation-and-basic-usage-415924?course=nmap-for-beginners'>开始实验</a>            |
+|     02 | 🎯 🆓 本地验证服务版本                 | 初级   | <a target='_blank' href='https://labex.io/zh/labs/nmap-verify-service-version-locally-548693?course=nmap-for-beginners'>开始挑战</a>                     |
+|     03 | 🧩 🆓 学习 Nmap 基础命令语法           | 初级   | <a target='_blank' href='https://labex.io/zh/labs/nmap-learn-nmap-basic-command-syntax-415919?course=nmap-for-beginners'>开始实验</a>                    |
+|     04 | 🎯 🆓 查找 Luna 服务器上的开放端口     | 初级   | <a target='_blank' href='https://labex.io/zh/labs/nmap-find-open-port-on-luna-server-548697?course=nmap-for-beginners'>开始挑战</a>                      |
+|     05 | 🧩 🆓 学习 Nmap 扫描和输出分析         | 初级   | <a target='_blank' href='https://labex.io/zh/labs/nmap-learn-nmap-scanning-and-output-analysis-415926?course=nmap-for-beginners'>开始实验</a>            |
+|     06 | 🎯 🆓 将 Nmap 输出保存为 XML           | 初级   | <a target='_blank' href='https://labex.io/zh/labs/nmap-save-nmap-output-to-xml-548705?course=nmap-for-beginners'>开始挑战</a>                            |
+|     07 | 🧩 🆓 学习 Nmap 中的目标指定技术       | 初级   | <a target='_blank' href='https://labex.io/zh/labs/nmap-learn-target-specification-techniques-in-nmap-415935?course=nmap-for-beginners'>开始实验</a>      |
+|     08 | 🎯  从文件扫描目标                     | 初级   | <a target='_blank' href='https://labex.io/zh/labs/nmap-scan-target-from-file-548715?course=nmap-for-beginners'>开始挑战</a>                              |
+|     09 | 🧩  探索 Nmap 网络扫描的详细程度级别   | 初级   | <a target='_blank' href='https://labex.io/zh/labs/nmap-explore-nmap-verbosity-levels-for-network-scanning-415939?course=nmap-for-beginners'>开始实验</a> |
+|     10 | 🎯  揭秘隐藏端口                       | 初级   | <a target='_blank' href='https://labex.io/zh/labs/nmap-uncover-the-secret-port-548724?course=nmap-for-beginners'>开始挑战</a>                            |
+|     11 | 🧩  使用 Nmap SYN 扫描进行网络安全检测 | 初级   | <a target='_blank' href='https://labex.io/zh/labs/nmap-conduct-nmap-syn-scans-for-network-security-415934?course=nmap-for-beginners'>开始实验</a>        |
+|     12 | 🧩  使用 Nmap 执行 UDP 端口扫描        | 初级   | <a target='_blank' href='https://labex.io/zh/labs/nmap-perform-udp-port-scanning-with-nmap-415938?course=nmap-for-beginners'>开始实验</a>                |
+|     13 | 🎯  查找开放的 UDP 端口                | 初级   | <a target='_blank' href='https://labex.io/zh/labs/nmap-find-open-udp-port-548746?course=nmap-for-beginners'>开始挑战</a>                                 |
+|     14 | 🧩  学习 Nmap 操作系统和版本检测技术   | 初级   | <a target='_blank' href='https://labex.io/zh/labs/nmap-learn-nmap-os-and-version-detection-techniques-415925?course=nmap-for-beginners'>开始实验</a>     |
+|     15 | 🎯  识别 Linux 服务器版本              | 初级   | <a target='_blank' href='https://labex.io/zh/labs/nmap-identify-linux-server-version-548747?course=nmap-for-beginners'>开始挑战</a>                      |
 
 ## 关于 LabEx
 
-LabEx 是一个专注于编程和技术的交互式动手学习平台。它结合了实验室、AI 辅助和虚拟机，提供无视频的实践学习体验。采用严格的'边学边做'方法，浏览器内的交互式在线环境具有自动化的逐步检查，基于技能树的结构化内容组织系统，以及不断增长的学习资源（包含 30 个技能树和超过 6,000 个实验），LabEx 提供全面的实践教育。该平台包含基于最新 AI 模型构建的学习助手 Labby，提供对话式学习体验。
+[LabEx](https://labex.io) 是一个专注于编程和技术的交互式动手学习平台。它结合了实验室、AI 辅助和虚拟机，提供无视频的实践学习体验。采用严格的'边学边做'方法，浏览器内的交互式在线环境具有自动化的逐步检查，基于技能树的结构化内容组织系统，以及不断增长的学习资源（包含 30 个技能树和超过 6,000 个实验），[LabEx](https://labex.io) 提供全面的实践教育。该平台包含基于最新 AI 模型构建的学习助手 Labby，提供对话式学习体验。
 
 ## 更多
 
